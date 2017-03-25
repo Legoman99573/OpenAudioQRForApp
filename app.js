@@ -1,1 +1,1 @@
-$(".icons").load("url("AppQR.html");
+$(".icons").load("url("AppQR.html")");
